@@ -3,7 +3,7 @@ Setup
 
 ShockEmu requires the OS X command line development tools to be installed.  Installation steps:
 
-	git clone https://github.com/daeken/ShockEmu.git
+	git clone https://github.com/tkaprol/ShockEmu.git
 	./build.sh <filename>.se
 	./run.sh
 
