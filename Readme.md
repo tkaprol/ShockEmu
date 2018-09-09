@@ -12,7 +12,7 @@ It depends on your system having PS4 Remote Play installed at `/Applications/Rem
 SE file format
 ==============
 
-SE files are, generally speaking, a mapping between an input key, mouse button, or mouse movement to a DualShock 4 input.  See the example file (`nomanssky.se`) for a breakdown of the format.
+SE files are, generally speaking, a mapping between an input key, mouse button, or mouse movement to a DualShock 4 input.  See the example file (`nomanssky.se` or `fifa18.se`) for a breakdown of the format.
 
 How it works
 ============
